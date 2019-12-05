@@ -1,0 +1,40 @@
+{
+  "name": "markdown-it-highlight-i",
+  "version": "0.1.0",
+  "description": "use highlight.js for interative markdown.",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "interactive",
+    "highlight"
+  ],
+  "homepage": "https://github.com/snowyu/markdown-it-highlight-i",
+  "license": "MIT",
+  "author": {
+    "name": "Riceball LEE",
+    "url": "https://github.com/snowyu/"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowyu/markdown-it-highlight-i.git"
+  },
+  "scripts": {
+    "lint": "standard",
+    "prepublish": "npm test",
+    "test": "npm run lint && node test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "highlight.js": "^9.16.2",
+    "lodash.flow": "^3.5.0",
+    "markdown-it": "^10.0.0",
+    "standard": "^14.3.1"
+  }
+}
