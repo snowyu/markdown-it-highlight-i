@@ -32,7 +32,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "highlight.js": "^9.16.2",
+    "highlight.js": "^10.1.2",
     "lodash.flow": "^3.5.0",
     "markdown-it": "^10.0.0",
     "standard": "^14.3.1"
