@@ -34,7 +34,7 @@
   "devDependencies": {
     "highlight.js": "^9.16.2",
     "lodash.flow": "^3.5.0",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "standard": "^14.3.1"
   }
 }
